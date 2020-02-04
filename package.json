@@ -1,0 +1,17 @@
+{
+  "name": "ImagineHouse",
+  "version": "0.0.1",
+  "description": "Organizational Codebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/ImagineHouse/ImagineHouse.git",
+  "keywords": [],
+  "author": "Brian Weber <brian@mobiletta.com> (https://brianweber.com)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ImagineHouse/ImagineHouse/issues"
+  },
+  "homepage": "https://github.com/ImagineHouse/ImagineHouse#readme"
+}
